@@ -1,5 +1,5 @@
-Traffic Flow Simulation
-
+**Traffic Flow Simulation
+**
 This project simulates traffic flow on a straight road, visualizing the movement of cars with dynamically adjusted speeds based on proximity to other cars and speed limits.
 The simulation features two real-time graphs:
 1. Car Positions on the Road
