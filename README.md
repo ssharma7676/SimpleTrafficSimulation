@@ -23,3 +23,11 @@ Simulation Details
     * Acceleration: Cars increase speed randomly when conditions allow
     * Deceleration: Cars slow down if too close to the vehicle ahead
     * Speeds are continuously adjusted to stay within defined limits
+  
+Dependencies
+* Python 3.x
+* Matplotlib (install using pip install matplotlib)
+
+Ideas for Improvement
+* Introduce traffic lights or stop signs
+* Simulate multi-lane roads with lane-switching
