@@ -1,4 +1,4 @@
-Traffic Flow Simulation
+# Traffic Flow Simulation
 
 This project simulates traffic flow on a straight road, visualizing the movement of cars with dynamically adjusted speeds based on proximity to other cars and speed limits.
 The simulation features two real-time graphs:
@@ -6,7 +6,7 @@ The simulation features two real-time graphs:
 2. Average Speed Over Time
 
 
-Features
+## Features
 * Simulates 20 cars moving at random speeds, constrained by:
     * Maximum speed: 90 mph
     * Minimum speed: 20 mph
@@ -17,7 +17,7 @@ Features
     * Graph 2: Tracks the average speed over time
 
 
-Simulation Details
+## Simulation Details
 1. Initialization:
     * Cars are evenly spaced on the road, starting at the speed limit
     * Movement is calculated as speed × time, with adjustments for safety
@@ -27,11 +27,11 @@ Simulation Details
     * Speeds are continuously adjusted to stay within defined limits
 
   
-Dependencies
+## Dependencies
 * Python 3.x
 * Matplotlib (install using pip install matplotlib)
 
 
-Ideas for Improvement
+## Future Enhancements
 * Introduce traffic lights or stop signs
 * Simulate multi-lane roads with lane-switching
